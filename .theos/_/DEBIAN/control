@@ -1,0 +1,10 @@
+Package: com.maximehip.longkeys
+Name: LongKeys
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: maximehip
+Author: maximehip
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 136
